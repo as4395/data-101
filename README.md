@@ -6,5 +6,5 @@ What you’ll see in this repository:
 - Statistical methods including difference of means, p-values, chi-square tests, confidence levels, and multiple hypothesis correction  
 - Data wrangling and transformation using the `subset()`, `tapply()`, `table()`, and `aggregate()` functions
 - Visual exploration with `plot()`, `barplot()`, `boxplot()`, and `mosaicplot()` 
-- Predictive modeling
-- Actionable insights  
+- Predictive modeling with linear regression and decision trees (`lm`, `rpart`)
+- Clearly communicated insights that are relevant to both technical and non-technical audiences 
