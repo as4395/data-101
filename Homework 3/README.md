@@ -18,5 +18,5 @@ where C1 equals c1 and C2 equals c2. For example, find the fraction of parties o
 "Blue" and the music is "Techno."
 
 
-Task 4 : For the numerical variable N, find a subset of your data that includes at least 5% of all data points, where
+Task 4: For the numerical variable N, find a subset of your data that includes at least 5% of all data points, where
 the confidence interval for the mean of N is the narrowest with a 90% confidence level.
